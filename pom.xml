@@ -80,6 +80,7 @@
     </dependencyManagement>
 
     <build>
+        <finalName>wep</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
